@@ -28,6 +28,22 @@ repository: "nicolas-van/bootstrap-4-github-pages"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
 
 # A list of the pages to display in the navigation bar
 header_pages:
@@ -40,3 +56,4 @@ exclude:
   - Gemfile.lock
   - node_modules
   - update_boostrap.sh
+
