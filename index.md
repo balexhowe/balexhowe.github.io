@@ -3,7 +3,7 @@ layout: page
 title: Implementing Backup and Restore with NetApp Data Availability Services
 ---
 
-## 1 Introduction 
+## [1 Introduction](#1-introduction)
 
 NetApp Data Availability Services (NDAS) provides simplified orchestration of data management workflows for the hybrid cloud, allowing you to rapidly transform your secondary data into value-generating assets. Deployed as a cloud-based app, NDAS creates and manages data protection workflows from ONTAP source and target storage systems (that correspond to the SnapMirror primary and secondary systems), and replicates copies to the cloud using an intelligent format.
 
@@ -11,7 +11,7 @@ NDAS takes advantage of existing ONTAP SnapMirror technology, and marries it wit
 
 Once on-premises ONTAP clusters are updated to meet NDAS prerequisites, the NDAS app provides a simplified UI to walk the IT generalist user through a series of steps to configure a hybrid cloud data protection environment. The interface is intuitive to users with more general IT skills, and provides the ability to apply existing data protection policies with confidence. Users do not require extensive data protection or storage backgrounds!
 
-## 2 Lab Environment
+## [1 Introduction](#1-introduction)
 
 ![alt text](https://balexhowe.github.io/images/en_SL10547.png "Lab Environment")
 _Figure 2-1:_**
