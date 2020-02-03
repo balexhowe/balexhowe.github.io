@@ -1,6 +1,9 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+<nav class="navbar navbar navbar-light fixed-top bg-light flex-md-nowrap p-0 shadow">
   <div class="container">
-    <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+	  <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="index.html">
+            <img src="https://labondemand.netapp.com/sites/default/files/na_logo_hrz_2c_rgb_lrg.png" alt="Home">
+        </a>
+    <!-- <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a> -->
 
     {%- assign page_paths = site.header_pages -%}
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -20,6 +23,12 @@
         <li class="nav-item">
           <a class="nav-link" href="{{ site.github.repository_url }}">Fork me on Github</a>
         </li>
+		  <ul class="navbar-nav px-3">
+            <li class="nav-item text-nowrap text-center">
+                Version 1.0<br />
+				<small>03.19</small>
+            </li>
+        </ul>
       </ul>
     </div>
   </div>
