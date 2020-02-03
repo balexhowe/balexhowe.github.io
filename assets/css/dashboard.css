@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'source_sans_proitalic';
-    src: url('{{ site.baseurl }}/assets/fonts/sourcesanspro-it-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/sourcesanspro-it-webfont.woff') format('woff');
+    src: url('../assets/fonts/sourcesanspro-it-webfont.woff2') format('woff2'),
+         url('../assets/fonts/sourcesanspro-it-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'source_sans_prolight';
-    src: url('{{ site.baseurl }}/assets/fonts/sourcesanspro-light-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/sourcesanspro-light-webfont.woff') format('woff');
+    src: url('../assets/fonts/sourcesanspro-light-webfont.woff2') format('woff2'),
+         url('../assets/fonts/sourcesanspro-light-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: 'source_sans_probold';
-    src: url('{{ site.baseurl }}/assets/fonts/sourcesanspro-bold-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/sourcesanspro-bold-webfont.woff') format('woff');
+    src: url('../assets/fonts/sourcesanspro-bold-webfont.woff2') format('woff2'),
+         url('../assets/fonts/sourcesanspro-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -27,8 +27,8 @@
 
 @font-face {
     font-family: 'source_sans_probold_italic';
-    src: url('{{ site.baseurl }}/assets/fonts/sourcesanspro-boldit-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/sourcesanspro-boldit-webfont.woff') format('woff');
+    src: url('../assets/fonts/sourcesanspro-boldit-webfont.woff2') format('woff2'),
+         url('../assets/fonts/sourcesanspro-boldit-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -36,8 +36,8 @@
 
 @font-face {
     font-family: 'source_sans_prolight_italic';
-    src: url('{{ site.baseurl }}/assets/fonts/sourcesanspro-lightit-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/sourcesanspro-lightit-webfont.woff') format('woff');
+    src: url('../assets/fonts/sourcesanspro-lightit-webfont.woff2') format('woff2'),
+         url('../assets/fonts/sourcesanspro-lightit-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -45,8 +45,8 @@
 
 @font-face {
     font-family: 'source_sans_proregular';
-    src: url('{{ site.baseurl }}/assets/fonts/sourcesanspro-regular-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/sourcesanspro-regular-webfont.woff') format('woff');
+    src: url('../assets/fonts/sourcesanspro-regular-webfont.woff2') format('woff2'),
+         url('../assets/fonts/sourcesanspro-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -54,8 +54,8 @@
 
 @font-face {
     font-family: 'source_sans_prosemibold';
-    src: url('{{ site.baseurl }}/assets/fonts/sourcesanspro-semibold-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/sourcesanspro-semibold-webfont.woff') format('woff');
+    src: url('../assets/fonts/sourcesanspro-semibold-webfont.woff2') format('woff2'),
+         url('../assets/fonts/sourcesanspro-semibold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -63,8 +63,8 @@
 
 @font-face {
     font-family: 'source_sans_proSBdIt';
-    src: url('{{ site.baseurl }}/assets/fonts/sourcesanspro-semiboldit-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/sourcesanspro-semiboldit-webfont.woff') format('woff');
+    src: url('../assets/fonts/sourcesanspro-semiboldit-webfont.woff2') format('woff2'),
+         url('../assets/fonts/sourcesanspro-semiboldit-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -72,8 +72,8 @@
 
 @font-face {
     font-family: 'inconsolatabold';
-    src: url('{{ site.baseurl }}/assets/fonts/inconsolata-bold-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/inconsolata-bold-webfont.woff') format('woff');
+    src: url('../assets/fonts/inconsolata-bold-webfont.woff2') format('woff2'),
+         url('../assets/fonts/inconsolata-bold-webfont.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 
@@ -81,8 +81,8 @@
 
 @font-face {
     font-family: 'inconsolataregular';
-    src: url('{{ site.baseurl }}/assets/fonts/inconsolata-regular-webfont.woff2') format('woff2'),
-         url('{{ site.baseurl }}/assets/fonts/inconsolata-regular-webfont.woff') format('woff');
+    src: url('../assets/fonts/inconsolata-regular-webfont.woff2') format('woff2'),
+         url('../assets/fonts/inconsolata-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 

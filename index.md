@@ -13,7 +13,7 @@ Once on-premises ONTAP clusters are updated to meet NDAS prerequisites, the NDAS
 
 ## [1 Introduction](#1-introduction)
 
-![alt text](https://balexhowe.github.io/images/en_SL10547.png "Lab Environment")
+![alt text]({{ site.baseurl }}/assets/images/en_SL10547.png "Lab Environment")
 _Figure 2-1:_**
 
 ### Table of Systems
