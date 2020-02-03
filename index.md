@@ -11,7 +11,7 @@ NDAS takes advantage of existing ONTAP SnapMirror technology, and marries it wit
 
 Once on-premises ONTAP clusters are updated to meet NDAS prerequisites, the NDAS app provides a simplified UI to walk the IT generalist user through a series of steps to configure a hybrid cloud data protection environment. The interface is intuitive to users with more general IT skills, and provides the ability to apply existing data protection policies with confidence. Users do not require extensive data protection or storage backgrounds!
 
-## [1 Introduction](#1-introduction)
+## [2 Lab Environment](#2-lab-environment)
 
 ![alt text]({{ site.baseurl }}/assets/images/en_SL10547.png "Lab Environment")
 _Figure 2-1:_**
