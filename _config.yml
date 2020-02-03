@@ -22,7 +22,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-repository: "nicolas-van/bootstrap-4-github-pages"
+#repository: "balexhowe/bootstrap-4-github-pages"
 
 # Build settings
 plugins:
