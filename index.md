@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Implementing Backup and Restore with NetApp Data Availability Services
+title: 
 ---
 
 ## [1 Introduction](#1-introduction)
