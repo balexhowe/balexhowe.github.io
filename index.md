@@ -13,7 +13,8 @@ Once on-premises ONTAP clusters are updated to meet NDAS prerequisites, the NDAS
 
 ## [2 Lab Environment](#2-lab-environment)
 
-![alt text]({{ site.baseurl }}/assets/images/en_SL10547.png "Lab Environment")
+[alt text]({{ site.baseurl }}/assets/images/Figure2-1.png "Lab Environment")
+
 _Figure 2-1:_**
 
 ### Table of Systems
@@ -31,3 +32,19 @@ _Figure 2-1:_**
 | --------- |-------------------| ----------| ----------------------------------|
 | jumphost	| DEMO\Administrator| Netapp1!	| Domain Administrator				|
 | cluster1	| admin        		| Netapp1!	| Same for individual cluster nodes	|
+
+
+
+## [3 Lab Activities](#2-lab-activities)
+
+This lab contains the following activities and tasks:
+
+* [Register NetApp Data Availability Services Account](#register-netapp-data-availability-services-account)
+* [Register Disk and Object Targets on NetApp Data Availability Services](#register-disk-and-object-targets-on-netapp-data-availability-services)
+* [Data Protection with NetApp Data Availability Services](#data-protection-with-netapp-data-availability-services)
+* [Executing a NetApp Data Availability Services File Restore to Original Location](#executing-a-netapp-data-availability-services-file-restore-to-original-location)
+* [Executing a NetApp Data Availability Services File Restore to Alternate Location](#executing-a-netapp-data-availability-services-file-restore-to-alternate-location)
+* [Executing a NetApp Data Availability Services Volume Restore](#executing-a-netapp-data-availability-services-volume-restore)
+
+
+    
