@@ -60,7 +60,7 @@ In this initial lab activity you will register/create a new NDAS account.
   ![alt text]({{ site.baseurl }}/assets/images/Figure3.1-2.png "Figure 3.1-2")
   _Figure 3.1-2:_**
   3. Sign up with the following credentials:
-	- Username `admin`
+  	- Username `admin`
 	- Email `root@demo.netapp.com`
 	- New Password `Netapp1!`
 	- Re-enter Password `Netapp1!`
