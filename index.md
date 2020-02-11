@@ -54,18 +54,18 @@ In this initial lab activity you will register/create a new NDAS account.
 
 1. Launch Chrome, which will open NetApp Availability Services as the browser's home page.
 
-**Note:** NDAS is also saved on the top left of the browser in folder called "NetApp".
+**Note:** NDAS is also saved on the top left of the browser in folder called "NetApp".  
 
-![alt text]({{ site.baseurl }}/assets/images/Figure3.1-1.png "Figure 3.1-1")
+![alt text]({{ site.baseurl }}/assets/images/Figure3.1-1.png "Figure 3.1-1")  
 
-_Figure 3.1-1:_**
+_Figure 3.1-1:_**  
 
 
 2. Click Sign Up.
 
-![alt text]({{ site.baseurl }}/assets/images/Figure3.1-2.png "Figure 3.1-2")
+![alt text]({{ site.baseurl }}/assets/images/Figure3.1-2.png "Figure 3.1-2")  
 
-_Figure 3.1-2:_**
+_Figure 3.1-2:_**  
 
 
 3. Sign up with the following credentials:
