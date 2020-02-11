@@ -13,7 +13,7 @@ Once on-premises ONTAP clusters are updated to meet NDAS prerequisites, the NDAS
 
 ## [2 Lab Environment](#2-lab-environment)
 
-[alt text]({{ site.baseurl }}/assets/images/Figure2-1.png "Lab Environment")
+![alt text]({{ site.baseurl }}/assets/images/Figure2-1.png "Lab Environment")
 
 _Figure 2-1:_**
 
@@ -35,7 +35,7 @@ _Figure 2-1:_**
 
 
 
-## [3 Lab Activities](#2-lab-activities)
+## [3 Lab Activities](#3-lab-activities)
 
 This lab contains the following activities and tasks:
 
@@ -46,5 +46,16 @@ This lab contains the following activities and tasks:
 * [Executing a NetApp Data Availability Services File Restore to Alternate Location](#executing-a-netapp-data-availability-services-file-restore-to-alternate-location)
 * [Executing a NetApp Data Availability Services Volume Restore](#executing-a-netapp-data-availability-services-volume-restore)
 
+## 3.1 Register NetApp Data Availability Services Account <a name="register-netapp-data-availability-services-account"></a>
+
+At this point in the lab NDAS has already been deployed and is ready for login. This lab does not cover the NetApp Data Availability Services launch process.
+
+In this initial lab activity you will register/create a new NDAS account. 
+
+1. Launch Chrome, which will open NetApp Availability Services as the browser's home page.
+**Note:** NDAS is also saved on the top left of the browser in folder called "NetApp".
+
+![alt text]({{ site.baseurl }}/assets/images/Figure3.1-1.png "Figure 3.1-1")
+_Figure 2-1:_**
 
     
