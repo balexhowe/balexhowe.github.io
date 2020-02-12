@@ -39,8 +39,8 @@ _Figure 2-1:_**
 
 This lab contains the following activities and tasks:
 
-* [Register NetApp Data Availability Services Account](index.html#register-netapp-data-availability-services-account)
-* [Register Disk and Object Targets on NetApp Data Availability Services](index.html#register-disk-and-object-targets-on-netapp-data-availability-services)
+* [Register NetApp Data Availability Services Account](#register-netapp-data-availability-services-account)
+* [Register Disk and Object Targets on NetApp Data Availability Services](#register-disk-and-object-targets-on-netapp-data-availability-services)
 * [Data Protection with NetApp Data Availability Services](#data-protection-with-netapp-data-availability-services)
 * [Executing a NetApp Data Availability Services File Restore to Original Location](#executing-a-netapp-data-availability-services-file-restore-to-original-location)
 * [Executing a NetApp Data Availability Services File Restore to Alternate Location](#executing-a-netapp-data-availability-services-file-restore-to-alternate-location)
@@ -80,5 +80,14 @@ In this initial lab activity you will register/create a new NDAS account.
   ![alt text]({{ site.baseurl }}/assets/images/Figure3.1-5.png "Figure 3.1-5")
   _Figure 3.1-5:_**
 
+
+## 3.2 Register Disk and Object Targets on NetApp Data Availability Services <a name="register-disk-and-object-targets-on-netapp-data-availability-services"></a>
+
+The disk target is your NetApp ONTAP secondary cluster, and the cloud target is the Amazon S3 bucket that will contain the backups.
+
+1. Click **Register Disk Target**.  
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-1.png "Figure 3.2-1")
+  _Figure 3.2-1:_**  
+NDAS generates a single use configuration key that is used to securely register the ONTAP secondary cluster, and initiate discovery of the peered primary environment. 
 
     
