@@ -86,8 +86,15 @@ In this initial lab activity you will register/create a new NDAS account.
 The disk target is your NetApp ONTAP secondary cluster, and the cloud target is the Amazon S3 bucket that will contain the backups.
 
 1. Click **Register Disk Target**.  
-![alt text]({{ site.baseurl }}/assets/images/Figure3.2-1.png "Figure 3.2-1")
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-1.png "Figure 3.2-1")  
   _Figure 3.2-1:_**  
 NDAS generates a single use configuration key that is used to securely register the ONTAP secondary cluster, and initiate discovery of the peered primary environment. 
+2. Click **Copy to clipboard**.  
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-2.png "Figure 3.2-2")  
+  _Figure 3.2-2:_**  
+3. In the "Register Disk Target" dialog click **OK**.  
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-3.png "Figure 3.2-3")  
+  _Figure 3.2-3:_** 
+
 
     
