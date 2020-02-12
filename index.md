@@ -107,7 +107,21 @@ NDAS generates a single use configuration key that is used to securely register 
 9. Click **Configuration** on the left pane.
 10. Select **Cloud registration**.
 11. Paste the copied configuration key from NetApp Data Availability Service.
-12. Click **Register**.
-
-
-    
+12. Click **Register**.  
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-5.png "Figure 3.2-5")
+  _Figure 3.2-5:_**  
+13. The Cloud Registration page shows a green check mark, and a value of "Connected", indicating that cloud registration completed successfully.  
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-6.png "Figure 3.2-6")
+  _Figure 3.2-6:_**  
+14. Select the **NetApp Data Availability** browser tab.  
+15. Select **Targets** on left pane.  
+16. Click **Authenticate Disk Target**.
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-7.png "Figure 3.2-7")
+  _Figure 3.2-7:_** 
+17. Authenticate the secondary cluster (cluster2) using the following credentials:  
+- Administrative username: `admin`  
+- Password: `Netapp1!`
+18. Click **Authenticate**.  
+**Note:** When cluster authentication is completed successfully a message will appear at the top of the screen, NDAS will automatically discover the peered ONTAP primary cluster and its associated storage. This might take up to one minute.  
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-7.png "Figure 3.2-7")
+  _Figure 3.2-7:_** 
