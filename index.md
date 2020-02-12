@@ -53,6 +53,7 @@ At this point in the lab NDAS has already been deployed and is ready for login. 
 In this initial lab activity you will register/create a new NDAS account. 
 
   1. Launch Chrome, which will open NetApp Availability Services as the browser's home page.
+  
   **Note:** NDAS is also saved on the top left of the browser in folder called "NetApp".
   ![alt text]({{ site.baseurl }}/assets/images/Figure3.1-1.png "Figure 3.1-1")
   _Figure 3.1-1:_**  
@@ -66,6 +67,7 @@ In this initial lab activity you will register/create a new NDAS account.
 	 - Re-enter Password **`Netapp1!`**
   4. Click **Sign In**.
   5. Once you click "Sign In", you will be automatically routed back to the login page.
+  
   **Note:** Ignore the sync browser pop ups.
   ![alt text]({{ site.baseurl }}/assets/images/Figure3.1-3.png "Figure 3.1-3")
   _Figure 3.1-3:_**
@@ -76,7 +78,7 @@ In this initial lab activity you will register/create a new NDAS account.
     ![alt text]({{ site.baseurl }}/assets/images/Figure3.1-4.png "Figure 3.1-4")
     _Figure 3.1-4:_**
   8. This is the dashboard of NDAS. Since this is the first login, there is no configuration and no job activity is reported. In the Alerts pane, you can see messages about recent logins and any errors will also appear here. The Protection Environment pane is grayed out as the on-premises environment is not configured yet. The only option available is to "Register Disk Target".
-  **Note:** Maximize the Chrome browser and use zoom (Ctl-) to see the whole dashboard.
+      **Note:** Maximize the Chrome browser and use zoom (Ctl-) to see the whole dashboard.
   ![alt text]({{ site.baseurl }}/assets/images/Figure3.1-5.png "Figure 3.1-5")
   _Figure 3.1-5:_**
 
