@@ -99,10 +99,15 @@ NDAS generates a single use configuration key that is used to securely register 
 5. Navigate to the bookmarks folder called **NetApp**.  
 6. Select **Oncommand System Manager - cluster2**.  
 7. Login with the following credentials:   
-- Login `admin` . 
+- Login `admin` 
 - Password `Netapp1!`  
-![alt text]({{ site.baseurl }}/assets/images/Figure3.2-3.png "Figure 3.2-3")
-  _Figure 3.2-3:_**
+8. Click **Sign In** . 
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-4.png "Figure 3.2-4")
+  _Figure 3.2-4:_**  
+9. Click **Configuration** on the left pane.
+10. Select **Cloud registration**.
+11. Paste the copied configuration key from NetApp Data Availability Service.
+12. Click **Register**.
 
 
     
