@@ -71,14 +71,14 @@ In this initial lab activity you will register/create a new NDAS account.
   _Figure 3.1-3:_**
   6. Login with the new account:
     - Login **`admin`**
-	- Password **`Netapp1!`**
+    - Password **`Netapp1!`**
   7. Click **Sign In**.
     ![alt text]({{ site.baseurl }}/assets/images/Figure3.1-4.png "Figure 3.1-4")
     _Figure 3.1-4:_**
   8. This is the dashboard of NDAS. Since this is the first login, there is no configuration and no job activity is reported. In the Alerts pane, you can see messages about recent logins and any errors will also appear here. The Protection Environment pane is grayed out as the on-premises environment is not configured yet. The only option available is to "Register Disk Target".
-   **Note:** Maximize the Chrome browser and use zoom (Ctl-) to see the whole dashboard.
-    ![alt text]({{ site.baseurl }}/assets/images/Figure3.1-5.png "Figure 3.1-5")
-    _Figure 3.1-5:_**
+  **Note:** Maximize the Chrome browser and use zoom (Ctl-) to see the whole dashboard.
+  ![alt text]({{ site.baseurl }}/assets/images/Figure3.1-5.png "Figure 3.1-5")
+  _Figure 3.1-5:_**
 
 
     
