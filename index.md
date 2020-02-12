@@ -70,8 +70,8 @@ In this initial lab activity you will register/create a new NDAS account.
   ![alt text]({{ site.baseurl }}/assets/images/Figure3.1-3.png "Figure 3.1-3")
   _Figure 3.1-3:_**
   6. Login with the new account:
-    - Login **`admin`**
-    - Password **`Netapp1!`**
+  - Login **`admin`**
+  - Password **`Netapp1!`**
   7. Click **Sign In**.
     ![alt text]({{ site.baseurl }}/assets/images/Figure3.1-4.png "Figure 3.1-4")
     _Figure 3.1-4:_**
