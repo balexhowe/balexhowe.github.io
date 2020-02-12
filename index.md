@@ -94,6 +94,14 @@ NDAS generates a single use configuration key that is used to securely register 
   _Figure 3.2-2:_**
 3. In the "Register Disk Target" dialog click **OK**.  
 ![alt text]({{ site.baseurl }}/assets/images/Figure3.2-3.png "Figure 3.2-3")
+  _Figure 3.2-3:_**  
+4. Open a new tab on your browser.  
+5. Navigate to the bookmarks folder called **NetApp**.  
+6. Select **Oncommand System Manager - cluster2**.  
+7. Login with the following credentials:   
+- Login `admin` . 
+- Password `Netapp1!`  
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-3.png "Figure 3.2-3")
   _Figure 3.2-3:_**
 
 
