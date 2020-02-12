@@ -39,8 +39,8 @@ _Figure 2-1:_**
 
 This lab contains the following activities and tasks:
 
-* [Register NetApp Data Availability Services Account](#register-netapp-data-availability-services-account)
-* [Register Disk and Object Targets on NetApp Data Availability Services](#register-disk-and-object-targets-on-netapp-data-availability-services)
+* [Register NetApp Data Availability Services Account](index.html#register-netapp-data-availability-services-account)
+* [Register Disk and Object Targets on NetApp Data Availability Services](index.html#register-disk-and-object-targets-on-netapp-data-availability-services)
 * [Data Protection with NetApp Data Availability Services](#data-protection-with-netapp-data-availability-services)
 * [Executing a NetApp Data Availability Services File Restore to Original Location](#executing-a-netapp-data-availability-services-file-restore-to-original-location)
 * [Executing a NetApp Data Availability Services File Restore to Alternate Location](#executing-a-netapp-data-availability-services-file-restore-to-alternate-location)
