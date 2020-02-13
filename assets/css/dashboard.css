@@ -99,6 +99,8 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
 }
 
+
+
 h1 {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 30px;
@@ -119,6 +121,15 @@ h1 {
 }
 
 kbd {
+	font-family: 'inconsolatabold', monospace;
+	font-weight: bold;
+	color:#007bff;
+	background-color:transparent;
+    border-radius:0;
+	font-size: 100%;
+}
+
+code {
 	font-family: 'inconsolatabold', monospace;
 	font-weight: bold;
 	color:#007bff;

@@ -123,38 +123,38 @@ NDAS generates a single use configuration key that is used to securely register 
 - Password: `Netapp1!`
 18. Click **Authenticate**.  
 **Note:** When cluster authentication is completed successfully a message will appear at the top of the screen, NDAS will automatically discover the peered ONTAP primary cluster and its associated storage. This might take up to one minute.  
-![alt text]({{ site.baseurl }}/assets/images/Figure3.2-7.png "Figure 3.2-7")
-  _Figure 3.2-7:_** 
-19. Once Discovery is complete and you see the sections for "SVMs on Target Clusters" and "Peered Cluster Authentication", click **Authenticate Peered Clusters**.
 ![alt text]({{ site.baseurl }}/assets/images/Figure3.2-8.png "Figure 3.2-8")
-  _Figure 3.2-8:_**  
-20. Select the **radio button** next to cluster1.  
-21. Click **Authenticate**.  
+  _Figure 3.2-8:_** 
+19. Once Discovery is complete and you see the sections for "SVMs on Target Clusters" and "Peered Cluster Authentication", click **Authenticate Peered Clusters**.
 ![alt text]({{ site.baseurl }}/assets/images/Figure3.2-9.png "Figure 3.2-9")
   _Figure 3.2-9:_**  
+20. Select the **radio button** next to cluster1.  
+21. Click **Authenticate**.  
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-10.png "Figure 3.2-10")
+  _Figure 3.2-10:_**  
 22. Authenticate the primary cluster (cluster1) using the following credentials:  
 - Administrative username: `admin`  
 - Password: `Netapp1!`  
 23. Click **Authenticate**.   
-![alt text]({{ site.baseurl }}/assets/images/Figure3.2-10.png "Figure 3.2-10")
-  _Figure 3.2-10:_** 
-24. Confirm cluster peering is authenticated with a status of "Healthy".  
 ![alt text]({{ site.baseurl }}/assets/images/Figure3.2-11.png "Figure 3.2-11")
   _Figure 3.2-11:_** 
+24. Confirm cluster peering is authenticated with a status of "Healthy".  
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-12.png "Figure 3.2-12")
+  _Figure 3.2-12:_** 
 25. Navigate to the **Dashboard**.  
 **Note:** Now you can see that the ONTAP cluster discovery is complete. The "Protected to Disk" pane shows that 3 primary volumes are discovered. One of them already has an existing SnapMirror relationship. The Protection Environment is also partially filled out. And you can see Information messages in the Alerts pane about the NDAS policies created. The final configuration step is to Register your Cloud object store.  
 26. Under "Protected to Cloud" click **Register Cloud Target**.  
-![alt text]({{ site.baseurl }}/assets/images/Figure3.2-12.png "Figure 3.2-12")
-  _Figure 3.2-12:_**
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-13.png "Figure 3.2-13")
+  _Figure 3.2-13:_**
 27. NDAS can write its backups to either an AWS S3 object store, or an on-premises NetApp StorageGRID object store.  
 28. Select Use **AWS CLOUD**.  
-![alt text]({{ site.baseurl }}/assets/images/Figure3.2-13.png "Figure 3.2-13")
-  _Figure 3.2-13:_**  
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-14.png "Figure 3.2-14")
+  _Figure 3.2-14:_**  
 29.  Minimize browser window.  
 30. Open the README.txt on the desktop.  
 31. Make note of the credential targets in which will be used for cloud target.  
-![alt text]({{ site.baseurl }}/assets/images/Figure3.2-14.png "Figure 3.2-14")
-  _Figure 3.2-14:_**  
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-15.png "Figure 3.2-15")
+  _Figure 3.2-15:_**  
 32. Maximize the browser to add the credentials for cloud target.  
 33. Enter the following credential copied from the "Readme.txt" file saved on the desktop.  
 34. Paste the following under Add Cloud Target:  
@@ -163,15 +163,15 @@ NDAS generates a single use configuration key that is used to securely register 
 - Secret Access Key: `wMh5hxWIBZQt+avXxZ7y+p0/TFMWAH4YtcUR0A5G`  
 35. Click **Add**.  
 **Note:** Ignore the "Save Password" pop-up from browser.  
-![alt text]({{ site.baseurl }}/assets/images/Figure3.2-15.png "Figure 3.2-15")
-  _Figure 3.2-15:_** 
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-16.png "Figure 3.2-16")
+  _Figure 3.2-16:_** 
 36. Once the Cloud Target is created, a message will appear.  
 37. Click back to **Targets**.  
-![alt text]({{ site.baseurl }}/assets/images/Figure3.2-16.png "Figure 3.2-16")
-  _Figure 3.2-16:_**
-38. In Targets you can see the object store is configured to NetApp Data Availability Services.    
 ![alt text]({{ site.baseurl }}/assets/images/Figure3.2-17.png "Figure 3.2-17")
-  _Figure 3.2-17:_**  
+  _Figure 3.2-17:_**
+38. In Targets you can see the object store is configured to NetApp Data Availability Services.    
+![alt text]({{ site.baseurl }}/assets/images/Figure3.2-18.png "Figure 3.2-18")
+  _Figure 3.2-18:_**  
   
   
   
