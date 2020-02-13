@@ -174,5 +174,5 @@ NDAS generates a single use configuration key that is used to securely register 
   _Figure 3.2-18:_**  
   
   
-  
+  this is a\n update. 
   
