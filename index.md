@@ -46,7 +46,7 @@ This lab contains the following activities and tasks:
 * [Executing a NetApp Data Availability Services File Restore to Alternate Location](#35-executing-a-netapp-data-availability-services-file-restore-to-alternate-location)
 * [Executing a NetApp Data Availability Services Volume Restore](#36-executing-a-netapp-data-availability-services-volume-restore)
 
-## 3.1 Register NetApp Data Availability Services Account
+### 3.1 Register NetApp Data Availability Services Account
 
 At this point in the lab NDAS has already been deployed and is ready for login. This lab does not cover the NetApp Data Availability Services launch process.
 
@@ -81,7 +81,7 @@ In this initial lab activity you will register/create a new NDAS account.
   _Figure 3.1-5:_**
 
 
-## 3.2 Register Disk and Object Targets on NetApp Data Availability Services
+### 3.2 Register Disk and Object Targets on NetApp Data Availability Services
 
 The disk target is your NetApp ONTAP secondary cluster, and the cloud target is the Amazon S3 bucket that will contain the backups.
 
