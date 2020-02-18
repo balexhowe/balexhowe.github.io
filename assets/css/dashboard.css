@@ -107,6 +107,10 @@ h1 {
   font-weight: 300;
 }
 
+h3 {
+  margin-top: 2rem;
+}
+
 .text-monospace {
 	font-family: 'inconsolataregular', monospace;
 }
